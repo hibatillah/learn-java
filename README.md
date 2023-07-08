@@ -1,7 +1,6 @@
-# Learn Java
+# Belajar Pemrograman Java
 
-Belajar bahasa pemrograman Java, <br>
-Kampus [Politeknik Caltex Riau](https://pcr.ac.id) 2021 - 2023.
+Dokumentasi belajar bahasa pemrograman Java, program studi Sistem Informasi [Politeknik Caltex Riau](https://pcr.ac.id) 2021 - 2023.
 
 * **Basic**
   * Tipe Data
